@@ -1,0 +1,2 @@
+# text-correlation
+Collaborated with a class mate to write a program that finds correlations between the writing styles (individual word usage count) of each book in the New Testament. Displays a plot of the correlation coefficient and shows who wrote that book in the Bible. Goal was to show similarities between books written by the same person. The original language (Greek) was used to ensure that translation did not skew the correlation coefficient. 
